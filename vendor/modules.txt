@@ -519,8 +519,8 @@ github.com/opencontainers/go-digest
 ## explicit
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/specs-go/v1
-# github.com/ovh/go-ovh v1.3.0
-## explicit; go 1.12
+# github.com/ovh/go-ovh v1.4.3
+## explicit; go 1.18
 github.com/ovh/go-ovh/ovh
 # github.com/pkg/errors v0.9.1
 ## explicit
@@ -594,7 +594,7 @@ github.com/sirupsen/logrus
 # github.com/spf13/pflag v1.0.5
 ## explicit; go 1.12
 github.com/spf13/pflag
-# github.com/stretchr/testify v1.8.1
+# github.com/stretchr/testify v1.8.2
 ## explicit; go 1.13
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
@@ -943,7 +943,7 @@ gopkg.in/alecthomas/kingpin.v2
 # gopkg.in/inf.v0 v0.9.1
 ## explicit
 gopkg.in/inf.v0
-# gopkg.in/ini.v1 v1.66.6
+# gopkg.in/ini.v1 v1.67.0
 ## explicit
 gopkg.in/ini.v1
 # gopkg.in/yaml.v2 v2.4.0
